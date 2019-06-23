@@ -14,3 +14,8 @@ The general workflow is as following:
 - 4.Rotate the QR code and Extract Informations  
 
 
+![original image](https://github.com/JiadongWANG94/QR-Code-Detection-and-Extraction/blob/master/image_report/original_photo.png)
+![morphological opening](https://github.com/JiadongWANG94/QR-Code-Detection-and-Extraction/blob/master/image_report/opening.png)
+![homography transformation](https://github.com/JiadongWANG94/QR-Code-Detection-and-Extraction/blob/master/image_report/homography.png)
+![data extracted](https://github.com/JiadongWANG94/QR-Code-Detection-and-Extraction/blob/master/image_report/data.png)
+![reconstructed](https://github.com/JiadongWANG94/QR-Code-Detection-and-Extraction/blob/master/image_report/reconstructed.png)
